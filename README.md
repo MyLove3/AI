@@ -87,8 +87,10 @@ Qua đây chúng em đã học được thêm rất nhiều kiến thức 
 1. Vẽ mê cung ban đầu
 ![image](https://github.com/MyLove3/AI/assets/104252448/8b492726-39bb-4583-a159-4fc3131d06a4)
 
+
 2. Lấy tọa độ start và goal
 ![image](https://github.com/MyLove3/AI/assets/104252448/8a89a95f-d566-49b4-8d40-ab2933d36283)
+
 
 3. Đường đi theo A*  
 ![image](https://github.com/MyLove3/AI/assets/104252448/095df293-968d-4155-a885-3160b2649a5a)

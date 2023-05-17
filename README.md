@@ -80,4 +80,17 @@ Trong thuật toán A*, việc lựa chọn ước lượng khoảng cách còn 
 
 # Kết luận 
 Trong bài toán này đã giúp nhóm em tự mình giải quyết được bài toán thực tế tìm kiếm đường đi trong mê cung với chi phí nhỏ nhất giữa hai điểm ta đã biết. Nếu rộng ra là ta sẽ có thể ứng dụng được trong việc xác định được các tuyến đường tốt nhất để đi trên bản đồ khi biết điểm bắt đầu và điểm kết thúc, hay tìm đường đi cho robot vượt chướng ngại vật và tìm đường về đích nhanh nhất,… 
-Qua đây chúng em đã học được thêm rất nhiều kiến thức để phục vụ cho việc học tập và công việc sau này. 
+Qua đây chúng em đã học được thêm rất nhiều kiến thức để phục vụ cho việc học tập và công việc sau này.
+
+# Một số đoạn code
+
+1. Vẽ mê cung ban đầu
+![image](https://github.com/MyLove3/AI/assets/104252448/8b492726-39bb-4583-a159-4fc3131d06a4)
+
+2. Lấy tọa độ start và goal
+![image](https://github.com/MyLove3/AI/assets/104252448/8a89a95f-d566-49b4-8d40-ab2933d36283)
+
+3. Đường đi theo A*  
+![image](https://github.com/MyLove3/AI/assets/104252448/095df293-968d-4155-a885-3160b2649a5a)
+
+
